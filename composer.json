@@ -1,0 +1,17 @@
+{
+    "name": "gioco-plus/bti-conttract",
+    "description": "bti interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "q",
+            "email": "q.wong@goldenf.co"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\BTI\\": "src/"
+        }
+    }
+}
