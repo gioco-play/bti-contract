@@ -1,8 +1,7 @@
 <?php
 
 declare(strict_types=1);
-namespace GiocoPlus\BTI;
-
+namespace GiocoPlus\BTI\Contract;
 
 interface BTIServiceInterface
 {
